@@ -7,7 +7,7 @@ export default function Topo() {
   return (
     <View>
         <Image source={logo} />
-        <Text>Olá, Carlos!</Text>
+        <Text>Olá, Joáo Ferrari!</Text>
         <Text>Encontre os melhores produtores.</Text>
     </View>
   );
