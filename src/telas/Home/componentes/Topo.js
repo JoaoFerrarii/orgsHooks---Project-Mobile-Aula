@@ -47,8 +47,8 @@ const estilos = StyleSheet.create({
     height: 28,
   },
   boasVindas:{
-    marginTop: 24,
-    fontSize: 26,
+    marginTop: 26,
+    fontSize: 24,
     lineHeight: 42,
     fontWeight:'bold'
   },
